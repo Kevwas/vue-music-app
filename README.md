@@ -32,3 +32,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Live Demo
+https://kevwas-vue-music-app.netlify.app/
